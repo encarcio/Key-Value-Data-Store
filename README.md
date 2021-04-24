@@ -19,3 +19,9 @@ Made separate classes for each separate entity which is independent and specify 
 Implemented each feature as specified in functional and non-functional requirements and after implementation tested each feature with all type of inputs to check how application behaves in different circumstances and appropriately handled each and every one of them.
 
 Implemented an UserInterface class to demonstrate the proper functioning of application.
+
+# Requirements
+
+Maven version 2.0/3.0 is required as a simple toolkit called json-simple has been utilised to convert java objects to JSON format through maven repository.
+JDK version 8 or above is required.
+Windows OS is required.
